@@ -3,7 +3,7 @@ import { Metadata } from "next";
 import Game from "@/components/Games";
 
 export const metadata: Metadata = {
-  title: "Game Page - Media World  | Play for Free Donation",
+  title: "Game Page - Cars World  | Play for Free Donation",
   description: "This is built by bahadur",
   // other metadata
 };
