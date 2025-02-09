@@ -111,11 +111,11 @@ const SingleBlogPage = async () => {
 
                 <div className="blog-details">
                   <p>
-                  Welcome to Media World, an innovative platform where gaming meets social impact. Designed to bring entertainment and purpose together, Play2MusicWorld allows users to play exciting games, earn coins, and contribute to meaningful social causes.
+                  Welcome to Cars World, an innovative platform where gaming meets social impact. Designed to bring entertainment and purpose together, Play2MusicWorld allows users to play exciting games, earn coins, and contribute to meaningful social causes.
                   </p>
 
                   <p>
-                  Media World offers a wide variety of games that cater to all interests and skill levels. Players can immerse themselves in thrilling adventures, puzzles, strategy games, and more. As you play and achieve milestones, you earn coins that can be used in multiple ways.
+                  Cars World offers a wide variety of games that cater to all interests and skill levels. Players can immerse themselves in thrilling adventures, puzzles, strategy games, and more. As you play and achieve milestones, you earn coins that can be used in multiple ways.
                   </p>
 
                   <div className="flex flex-wrap gap-5">
@@ -134,11 +134,11 @@ const SingleBlogPage = async () => {
                   </div>
 
                   <h3 className="pt-8">
-                  Media World offers a wide variety of games
+                  Cars World offers a wide variety of games
                   </h3>
 
                   <p>
-                  Media World offers a wide variety of games that cater to all interests and skill levels. Players can immerse themselves in thrilling adventures, puzzles, strategy games, and more. As you play and achieve milestones, you earn coins that can be used in multiple ways
+                  Cars World offers a wide variety of games that cater to all interests and skill levels. Players can immerse themselves in thrilling adventures, puzzles, strategy games, and more. As you play and achieve milestones, you earn coins that can be used in multiple ways
                   </p>
                 </div>
 
